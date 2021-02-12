@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently working on [Alkemy JS Challenge](https://github.com/ClaudioLillo/Alkemy-JS-Challenge)
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on Node.js projects
+- 🌱 I’m currently learning Django and IoT based on ESP8266 module
+- 👯 I’m looking to collaborate on Node.js and Python projects
 - 📫 Reach me at cilillo@uc.cl
 
 <img src="https://github-readme-stats.vercel.app/api?username=claudiolillo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="stats"/>
@@ -26,10 +26,10 @@
 - Non Relational Databases(MongoDB)
 - ORM (Sequelize)
 - CSS Frameworks(Material-UI, Bootstrap)
-- Javascript Frameworks(React)
+- Frontend Framework(React)
 - Backend: Express, nodemailer, bcrypt, jsonwebtoken
 - Transpiler(Babel)
-
+- Testing (Supertest, Mocha, Chai)
 
 
 

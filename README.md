@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on [Alkemy JS Challenge](https://github.com/ClaudioLillo/Alkemy-JS-Challenge)
-- 🌱 I’m currently learning Django and IoT based on ESP8266 module
+- 🔭 I’m currently working on react/material-ui frontend of www.escueladelomiranda.cl
+- 🌱 I’m currently learning Django and Docker
 - 👯 I’m looking to collaborate on Node.js and Python projects
 - 📫 Reach me at cilillo@uc.cl
 

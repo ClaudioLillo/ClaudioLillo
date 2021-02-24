@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on react/material-ui frontend of www.escueladelomiranda.cl
+- 🔭 I’m currently working on react + material-ui frontend for www.escuelalomiranda.cl. The public repository of this project is available on https://github.com/ClaudioLillo/escuelaLoMiranda-client
 - 🌱 I’m currently learning Django and Docker
 - 👯 I’m looking to collaborate on Node.js and Python projects
 - 📫 Reach me at cilillo@uc.cl

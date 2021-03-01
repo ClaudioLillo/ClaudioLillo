@@ -20,15 +20,16 @@
 - SQL
 
 ### Technologies
-- Enviroments(Node JS)
+- Enviroments and Editors (Node JS, Python IDLE, CodeBlocks, Visual Studio Code, Arduino, Processing)
 - GIT
 - Relational Databases(Postgres, MySql, SQLite)
 - Non Relational Databases(MongoDB)
 - ORM (Sequelize)
-- -Frontend : React JS, Material-UI, Bootstrap
+- Frontend : React JS, Material-UI, Bootstrap
 - Backend: Express, nodemailer, bcrypt, jsonwebtoken, lodash, socket.io
-- Transpilers(Babel)
+- Transpilers (Babel)
 - Testing (Supertest, Mocha, Chai, Jest)
+- Deploy (Heroku)
 
 
 

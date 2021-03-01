@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on react + material-ui frontend for www.escuelalomiranda.cl. The public repository of this project is available on https://github.com/ClaudioLillo/escuelaLoMiranda-client
+- 🔭 I’m currently working on the site www.escuelalomiranda.cl, an educational App developed on React + Material UI (frontend) and Express ( backend). Both, client and API are available in my public repositories.
 - 🌱 I’m currently learning Django and Docker
 - 👯 I’m looking to collaborate on Node.js and Python projects
 - 📫 Reach me at cilillo@uc.cl
@@ -25,11 +25,10 @@
 - Relational Databases(Postgres, MySql, SQLite)
 - Non Relational Databases(MongoDB)
 - ORM (Sequelize)
-- CSS Frameworks(Material-UI, Bootstrap)
-- Frontend Framework(React)
-- Backend: Express, nodemailer, bcrypt, jsonwebtoken
-- Transpiler(Babel)
-- Testing (Supertest, Mocha, Chai)
+- -Frontend : React JS, Material-UI, Bootstrap
+- Backend: Express, nodemailer, bcrypt, jsonwebtoken, lodash, socket.io
+- Transpilers(Babel)
+- Testing (Supertest, Mocha, Chai, Jest)
 
 
 

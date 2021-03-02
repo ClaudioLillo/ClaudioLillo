@@ -24,11 +24,11 @@
 - GIT
 - Relational Databases(Postgres, MySql, SQLite)
 - Non Relational Databases(MongoDB)
-- ORM (Sequelize)
+- ORMs (Sequelize, Mongoose)
 - Frontend : React JS, Material-UI, Bootstrap
 - Backend: Express, nodemailer, bcrypt, jsonwebtoken, lodash, socket.io
 - Transpilers (Babel)
-- Testing (Supertest, Mocha, Chai, Jest)
+- Unit Testing (Supertest, Mocha, Chai, Jest)
 - Deploy (Heroku)
 
 

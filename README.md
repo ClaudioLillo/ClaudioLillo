@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on the site www.escuelalomiranda.cl, an educational App developed on React + Material UI (frontend) and Express ( backend). Both, client and API are available in my public repositories.
-- 🌱 I’m currently learning Django and Docker
+- 🔭 I’m currently working at Axity, where I have a role of backend developer
+- 🌱 I’m currently running projects using AWS Cloud and Serverless Framework, written on JavaScript (NodeJS 14)
 - 👯 I’m looking to collaborate on Node.js and Python projects
 - 📫 Reach me at cilillo@uc.cl
 
@@ -20,16 +20,24 @@
 - SQL
 
 ### Technologies
-- Enviroments and Editors (Node JS, Python IDLE, CodeBlocks, Visual Studio Code, Arduino, Processing)
-- GIT
+- AWS Cloud Services (DynamoDB, Lambda, API Gateway, EventBridge, SES, SNS, S3, EC2)
+- Serverless Framwork (policies, resources, authorizers)
+- Version Manager(GIT)
 - Relational Databases(Postgres, MySql, SQLite)
-- Non Relational Databases(MongoDB)
+- Non Relational Databases(MongoDB, DynamoDB)
 - ORMs (Sequelize, Mongoose)
 - Frontend : React JS, Material-UI, Bootstrap
 - Backend: Express, nodemailer, bcrypt, jsonwebtoken, lodash, socket.io
 - Transpilers (Babel)
 - Unit Testing (Supertest, Mocha, Chai, Jest)
-- Deploy (Heroku)
+- Deployment (Heroku, AWS Cloud)
+
+### Skills
+- Problem Solving
+- Autonomous learning
+- Languages:
+  - Spanish: Native
+  - English: Conversational
 
 
 

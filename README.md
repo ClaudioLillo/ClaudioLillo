@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working at Axity, where I have a role of backend developer
-- 🌱 I’m currently running projects using AWS Cloud and Serverless Framework, written on JavaScript (NodeJS 14)
+- 🔭 I’m currently working at Globant, where I have a role of backend developer
+- 🌱 I’m currently running projects using AWS, Fastify, GraphQL, written on TypeScript (NodeJS 18.X)
 - 👯 I’m looking to collaborate on Node.js and Python projects
 - 📫 Reach me at cilillo@uc.cl
 
@@ -14,6 +14,7 @@
 
 ### Languages
 - Javascript (ES6)
+- Typescrip
 - HTML 5
 - CSS
 - Python 3.X
@@ -27,7 +28,7 @@
 - Non Relational Databases(MongoDB, DynamoDB)
 - ORMs (Sequelize, Mongoose)
 - Frontend : React JS, Material-UI, Bootstrap
-- Backend: Express, nodemailer, bcrypt, jsonwebtoken, lodash, socket.io
+- Backend: Express, nodemailer, bcrypt, jsonwebtoken, lodash, socket.io, fastyfy, graphQL
 - Transpilers (Babel)
 - Unit Testing (Supertest, Mocha, Chai, Jest)
 - Deployment (Heroku, AWS Cloud)

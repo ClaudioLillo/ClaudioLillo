@@ -14,7 +14,7 @@
 
 ### Languages
 - Javascript (ES6)
-- Typescrip
+- Typescript
 - HTML 5
 - CSS
 - Python 3.X
@@ -28,7 +28,7 @@
 - Non Relational Databases(MongoDB, DynamoDB)
 - ORMs (Sequelize, Mongoose)
 - Frontend : React JS, Material-UI, Bootstrap
-- Backend: Express, nodemailer, bcrypt, jsonwebtoken, lodash, socket.io, fastyfy, graphQL
+- Backend: Express, nodemailer, bcrypt, jsonwebtoken, lodash, socket.io, fastify, graphQL, Nest JS
 - Transpilers (Babel)
 - Unit Testing (Supertest, Mocha, Chai, Jest)
 - Deployment (Heroku, AWS Cloud)
